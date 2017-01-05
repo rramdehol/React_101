@@ -106,7 +106,11 @@ function Application(props){
 
 ReactDOM.render(<Application title="National Championship Scoreboard" teams = {teams}/>,
 	document.getElementById("container")
+<<<<<<< HEAD
 )
+=======
+	)
+>>>>>>> 43df15cb7687d536669df2ca446be8bba9614e56
 
 
 
