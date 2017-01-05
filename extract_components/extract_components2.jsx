@@ -15,7 +15,7 @@ function Comment(props) {
       <Badges>
     </div>
   );
-}
+}  
 
 function UserInfo(props){
   <div className="UserInfo">
